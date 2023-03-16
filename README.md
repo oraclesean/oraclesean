@@ -1,5 +1,5 @@
 # About Me
-I'm an Oracle database engineer, [Oracle ACE](https://ace.oracle.com/pls/apex/ace_program/r/oracle-aces/home) and Managing Principal Consultant at [Viscosity North America](https://www.viscosityna.com). My career spans 30 years working with Oracle and other database technologies with expertise spanning infrastructure and systems architecture, automation, DevOps, and software development.
+I'm an Oracle database engineer, [Oracle ACE Director](https://ace.oracle.com/pls/apex/ace_program/r/oracle-aces/home) and Managing Principal Consultant at [Viscosity North America](https://www.viscosityna.com). My career spans 30 years working with Oracle and other database technologies with expertise in infrastructure and systems architecture, automation, DevOps, and software development.
 
 My current responsibilities include:
 - Designing database environments for critical reliability, availability, performance, and scalability needs.
